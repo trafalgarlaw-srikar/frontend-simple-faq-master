@@ -49,12 +49,14 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### What I learned
 
-1. I learnt how to use semantic tags like ```<section>``` tag write a simple FAQ page.
-2. We can also use ```<details>``` and ```<summary>``` for showing collapsible FAQ section.
+1. Used grid for main body section with media query for desktop and laptop. 
+2. I learnt how to use semantic tags like ```<section>``` tag write a simple FAQ page.
+3. We can also use ```<details>``` and ```<summary>``` for showing collapsible FAQ section.
 
 ### Useful resources
 
 - [Font](https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap) Font used in this page.
+- [minmax usage in grid](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
 - [Details and summary tag](https://www.w3schools.com/tags/tag_details.asp) - Helped me in details and summary tag definitions and how to use them.
 <!--
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
