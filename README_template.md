@@ -49,6 +49,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### What I learned
 
+1. Preconnect - used to connect to given domain before resource is actually requested from that origin. This can reduce time it takes to load the resource.
 1. Used grid for main body section with media query for desktop and laptop. 
 2. I learnt how to use semantic tags like ```<section>``` tag write a simple FAQ page.
 3. We can also use ```<details>``` and ```<summary>``` for showing collapsible FAQ section.
